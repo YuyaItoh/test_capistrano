@@ -1,1 +1,1 @@
-set :deploy_to, '/home/y-itoh/rails/test_capistrano.development'
+set :deploy_to, "/home/y-itoh/rails/test_capistrano.development"
